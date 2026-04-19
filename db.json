@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "brand": "Logitech",
+      "price": 1200,
+      "category": "Electronics",
+      "stock": 25,
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Keyboard",
+      "brand": "Redragon",
+      "price": 3500,
+      "category": "Electronics",
+      "stock": 15,
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "brand": "Nike",
+      "price": 5500,
+      "category": "Footwear",
+      "stock": 30,
+      "rating": 4.3
+    },
+    {
+      "id": 4,
+      "name": "Smart Watch",
+      "brand": "Xiaomi",
+      "price": 4500,
+      "category": "Gadgets",
+      "stock": 20,
+      "rating": 4.4
+    },
+    {
+      "id": 5,
+      "name": "Backpack",
+      "brand": "American Tourister",
+      "price": 2800,
+      "category": "Accessories",
+      "stock": 18,
+      "rating": 4.2
+    }
+  ]
+}
