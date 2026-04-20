@@ -7,7 +7,8 @@
       "price": 1200,
       "category": "Electronics",
       "stock": 25,
-      "rating": 4.5
+      "rating": 4.5,
+      "description": "A smooth and responsive wireless mouse with ergonomic design, perfect for everyday use and long working hours."
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "price": 3500,
       "category": "Electronics",
       "stock": 15,
-      "rating": 4.7
+      "rating": 4.7,
+      "description": "A durable mechanical keyboard with RGB lighting, designed for gamers and fast typists."
     },
     {
       "id": 3,
@@ -25,7 +27,8 @@
       "price": 5500,
       "category": "Footwear",
       "stock": 30,
-      "rating": 4.3
+      "rating": 4.3,
+      "description": "Lightweight and comfortable running shoes with breathable material, ideal for sports and daily workouts."
     },
     {
       "id": 4,
@@ -34,7 +37,8 @@
       "price": 4500,
       "category": "Gadgets",
       "stock": 20,
-      "rating": 4.4
+      "rating": 4.4,
+      "description": "A stylish smartwatch with fitness tracking, heart rate monitoring, and long battery life."
     },
     {
       "id": 5,
@@ -43,7 +47,8 @@
       "price": 2800,
       "category": "Accessories",
       "stock": 18,
-      "rating": 4.2
+      "rating": 4.2,
+      "description": "A spacious and durable backpack suitable for travel, office, and everyday carry."
     }
   ]
 }
