@@ -50,5 +50,57 @@
       "rating": 4.2,
       "description": "A spacious and durable backpack suitable for travel, office, and everyday carry."
     }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": 450,
+      "category": "Self Development",
+      "rating": 4.8,
+      "stock": 20,
+      "description": "A practical guide on how to build good habits and break bad ones for long-term success."
+    },
+    {
+      "id": 2,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "price": 400,
+      "category": "Finance",
+      "rating": 4.6,
+      "stock": 15,
+      "description": "A book that teaches financial literacy, investing, and money management through real-life lessons."
+    },
+    {
+      "id": 3,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 350,
+      "category": "Fiction",
+      "rating": 4.5,
+      "stock": 25,
+      "description": "A philosophical novel about following your dreams and listening to your heart."
+    },
+    {
+      "id": 4,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "price": 500,
+      "category": "Productivity",
+      "rating": 4.7,
+      "stock": 18,
+      "description": "A guide to achieving focused success in a distracted world by mastering deep work."
+    },
+    {
+      "id": 5,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "price": 600,
+      "category": "Fantasy",
+      "rating": 4.9,
+      "stock": 30,
+      "description": "The first book in the Harry Potter series, introducing the magical world of Hogwarts."
+    }
   ]
 }
